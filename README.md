@@ -51,7 +51,7 @@
 ## Các bước cài đặt
 --> Clone repo:
 ```bash
-git clone https://github.com/Thai1708/Analysis-Spiderum-Youtube-Channel.git
+git clone https://github.com/VanThai1708/SpiderumYoutubeAnalysis.git
 
 ```
 
